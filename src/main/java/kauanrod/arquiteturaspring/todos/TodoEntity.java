@@ -1,4 +1,4 @@
-package kauanrod.arquiteturaspring.montadora.todos;
+package kauanrod.arquiteturaspring.todos;
 
 import jakarta.persistence.*;
 

@@ -1,4 +1,4 @@
-package kauanrod.arquiteturaspring.montadora.todos;
+package kauanrod.arquiteturaspring.todos;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

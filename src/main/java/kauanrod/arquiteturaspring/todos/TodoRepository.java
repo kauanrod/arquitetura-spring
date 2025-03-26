@@ -1,4 +1,4 @@
-package kauanrod.arquiteturaspring.montadora.todos;
+package kauanrod.arquiteturaspring.todos;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
